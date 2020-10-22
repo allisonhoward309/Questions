@@ -1,0 +1,8 @@
+C:\Users\allis\source\repos\Studio 6\obj\Debug\Studio_6.Properties.Resources.resources
+C:\Users\allis\source\repos\Studio 6\obj\Debug\Studio 6.csproj.GenerateResource.cache
+C:\Users\allis\source\repos\Studio 6\obj\Debug\Studio 6.csproj.CoreCompileInputs.cache
+C:\Users\allis\source\repos\Studio 6\bin\Debug\Studio 6.exe.config
+C:\Users\allis\source\repos\Studio 6\bin\Debug\Studio 6.exe
+C:\Users\allis\source\repos\Studio 6\bin\Debug\Studio 6.pdb
+C:\Users\allis\source\repos\Studio 6\obj\Debug\Studio 6.exe
+C:\Users\allis\source\repos\Studio 6\obj\Debug\Studio 6.pdb
